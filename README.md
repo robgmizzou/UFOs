@@ -1,11 +1,11 @@
 # UFOs
 
 ## Overview
-// purpose of the analysis
+
 <p>By enhancing Dana's webpage and dynamic tables with additional filters, we sharpened the search logic allowing users to look for location by city, state and country as well as shape in addition to the initial filter allowing users to search by date.</p>
 
 ## Results
-// Explaing to Dana how users will use her website - include pictures
+
 <p>Building upon the development that provided the date filter functionality, we have added city, state, country and shape filters to accompany the date filter.  The site will automatically respond to user inputs but filtering only matches to the inputs provided by the user.  Similar to the base development, no filter criteria will provide a total outpul of all items from the base data.</p>
 
 ![image](https://user-images.githubusercontent.com/100323377/169724837-54d09dce-642d-4c36-baac-eda2261f7d81.png)
